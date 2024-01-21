@@ -1,6 +1,6 @@
-# Javascript Data Structure and Algorithms &middot; ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Javascript Data Structure &middot; ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
 
-Fundamentals of the Javascript. Repository with examples and basic exercises of Data structure and algorithms. This repository is part of a self-taught supplemental course to help students develop skills.
+Fundamentals of the Javascript. Repository with examples and basic exercises of Data structures (Arrays2d, Queues, Stacks, Linked list, etc). This repository is part of a self-taught supplemental course to help students develop skills.
 
 ## Team
 
